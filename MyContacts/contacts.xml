@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Ruben </first_name>
+	<last_name>Kritzinger</last_name>
+	<phone_number>0827715450</phone_number>
+	<notes>hope it works</notes>
+</contact>
+<contact>
+	<first_name>louis</first_name>
+	<last_name>richard</last_name>
+	<phone_number>0289715454</phone_number>
+	<notes>hello</notes>
+</contact>
+</contacts>
